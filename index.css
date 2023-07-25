@@ -1,0 +1,300 @@
+.background-top{
+    background-color: black;
+    height: 500vh;
+    width: auto;
+}
+
+
+
+.background-images{
+    background-image: url(./pngtree-waterfall-landscape-in-dense-forest-image_1010632.jpg);
+    height: 80vh;
+    width: auto;
+    background-size: cover;
+    
+}
+#nav-bar{
+    color: white;
+    
+    font-size: 17px;
+
+}
+.logo{
+    height: 40px;
+    width: 40px;
+    margin-left: 40px;
+}
+.heading-card{
+    margin-top: 90px;
+    text-align: center;
+}
+.paragarph{
+    color: whitesmoke;
+    font-family: fantasy;
+    
+    text-align: center;
+}
+.heading{
+    color: lightgray;
+    font-family: cursive;
+    letter-spacing: 5px;
+    text-align: center;
+}
+.button{
+    background-color: green;
+    color: white;
+    font-style:normal;
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+    border-width: 0px;
+    margin-top: 30px;
+
+}
+.button:hover{
+    color: white;
+     background: none;
+    border: 2px solid  white;
+}
+.background-color{
+    background-color: white;
+    height: 100vh;
+    width: auto;
+    margin-bottom: 5px;
+}
+#paragarph{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    padding-top: 40px;
+}
+#heading{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 30px;
+    letter-spacing: 10px;
+}
+.imgeas{
+    height: 30vh;
+    width: 20vw;
+    margin-top: 40px;
+    margin-left: 80px;
+    transform: rotate(45deg);
+    border-radius: 10px;
+}
+.imgeas-2{
+    height: 40vh;
+    width: 30vw;
+    margin-top: 40px;
+    margin-left: 140px;
+    border-radius: 10px;
+}
+.second-background-color{
+    background-color: white;
+    height: 70vh;
+    width: auto;
+}
+.imgeas-3{
+    height: 60vh;
+    width: 40vw;
+    margin-top: 40px;
+    margin-left: 40px;    
+    border-radius: 10px;
+    
+}
+.tourism-head{
+    text-align: center;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    letter-spacing: 5px;
+    padding-top: 40px;
+}
+.tourism-paragarph{
+    text-align: center;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    
+}
+.button-2{
+    background-color: blue;
+    color: white;
+    font-style:normal;
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+    border-width: 0px;
+    margin-top: 30px;
+}
+.button-2:hover{
+    color: white;
+    background: orange;
+    border: 2px solid black;
+}
+.thired-background{
+    background-color: white;
+    height: 110vh;
+    width: auto;
+    margin-top: 5px;
+    text-align: center;
+}
+.card{
+    margin-left: 30px;
+}
+.rooms-card{
+    
+    padding-top: 100px;
+    padding-left: 60px;
+}
+.rooms{
+    height: 30vh;
+    width: 20vw;
+    background-size: cover;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    
+}
+.icons{
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top: 8px;
+    
+    
+}
+.icon-paragarph{
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    color: black;
+    
+    margin-left: 30px;
+    
+}
+.icon-heading{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    color: red;
+    padding-top: 30px;
+    text-align: center;
+    
+}
+.room-head{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    font-weight: bold;
+    padding-top: 40px;
+}
+.book-button{
+    background-color: rgb(255, 0, 119);
+    color: white;
+    font-style:normal;
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+    border-width: 0px;
+    margin-top: 60px;
+}
+.book-button:hover{
+    color: black;
+    background: rgb(0, 255, 242);
+    border: 2px solid black;
+}
+.four-background{
+    background-image: url(./lanchep.jpg);
+    background-size: cover;
+    height: 60vh;
+    width: auto;
+}
+.offer-background{
+    background-color: white;
+    height: 70vh;
+    text-align: center;
+    width: auto;
+}
+.mountains-card{
+    
+    height: 40vh;
+    width: 20vw;
+    margin-top: 50px;
+    margin-left: 130px;
+    border-radius: 10px;
+}
+.mountain-1{
+    font-size: 30px;
+    
+    margin-top: 40px;
+}
+.icon-paragarph1{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    color: black;
+    text-align: center;
+   
+}
+.Mountain-paragarpg{
+    font-size: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    color: black;
+    padding-top: 30px;
+    text-align: center;
+}
+.why-hikings{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    color: black;
+    padding-top: 70px;
+}
+.follow-background{
+    background-color: rgb(78, 78, 78);
+    height: 50vh;
+    
+    width: auto;
+    text-align: center;
+}
+.followes{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    
+    padding-top: 70px;
+    font-size: 20px;
+}
+.followes-logo{
+    height: 40px;
+    width: 40px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.followes-setion{
+    text-align: center;
+}
+.margin-card{
+    margin-right: 180px;
+}
+.logo{
+    height: 40px;
+    width: 40px;
+    margin-left: 40px;
+    margin-top: 10px;
+    
+}
+.logo:hover{
+    transition: 0.3s ease;
+    transform: scale(0.9);
+}
+#contantetn{
+   color: beige;
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 15px;
+   padding-top: 60px;
+}
